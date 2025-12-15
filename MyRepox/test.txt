@@ -1,1 +1,2 @@
 MyFirstGit text
+yeni funksionalliq
